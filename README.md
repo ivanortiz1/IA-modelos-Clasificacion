@@ -7,10 +7,12 @@ Bosque Aleatorio (Random Forest)
 El propósito de este análisis es determinar cuál de estos modelos ofrece el mejor rendimiento en términos de precisión para un conjunto de datos específico.
 
 # Conjunto de Datos
-El conjunto de datos utilizado en este análisis se encuentra aquí: [[repo]](https://github.com/jbagnato/machine-learning/blob/master/artists_billboard_fix3.csv).
+El conjunto de datos utilizado en este análisis se encuentra aquí: 
+[[repo]](https://github.com/jbagnato/machine-learning/blob/master/artists_billboard_fix3.csv).
 
 # Contenido del Repositorio
-Problemaclasificacion.ipynb: Jupyter Notebook que contiene la implementación de los modelos y su evaluación en el conjunto de datos.
+[Problemaclasificacion.ipynb](Problemaclasificacion.ipynb): Jupyter Notebook que contiene la implementación de los modelos y su evaluación en el conjunto de datos.
+
 artists_billboard_fix3.csv: Archivo CSV que contiene los datos utilizados en el análisis.
 artists_tratado.csv: Archivo CSV con los datos ya tratados y normalizados.
 README.md: Este archivo que proporciona una descripción del repositorio y su contenido.
