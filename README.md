@@ -44,4 +44,4 @@ o
 jupyter lab
 ```
 
-¡Esperamo que este análisis le resulte útil! Si tiene alguna pregunta o sugerencia, no dude en ponerse en contacto.
+¡Espero que este análisis le resulte útil! Si tiene alguna pregunta o sugerencia, no dude en ponerse en contacto.
